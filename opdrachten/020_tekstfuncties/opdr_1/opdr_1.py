@@ -15,5 +15,7 @@ print()
 voornaam = "albert"
 achternaam = "einstein"
 
+list = [voornaam,achternaam]
 
-print()
+
+print(list)
