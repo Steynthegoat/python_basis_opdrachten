@@ -1,16 +1,16 @@
 # Opdracht 3 tekstfuncties
-# Naam student:
+# Naam student: steyn
 # Groep:
 
 # Hier komt je code...
 x = 1
-y = ...
-print( ... )
+y = 2
+print( f"{x + y}" )
 
 x = 2
-y = ...
-print( ... )
+y = 23
+print(f"{x  +  y}" )
 
 x = 0
-y = ...
-print( ... )
+y = 1
+print(f"{x + y}" )

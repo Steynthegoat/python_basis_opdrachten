@@ -4,6 +4,7 @@
 
 # Hier komt je code...
 
-my_list = ...
+my_list = "Tinus gaat op zijn tandem naar de hottentottententoonstelling"
 
-print()
+t_count = my_list.upper().count('T')
+print (f"De letter T komt {t_count} keer voor in de tekst.")
