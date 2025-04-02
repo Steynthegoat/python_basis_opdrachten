@@ -16,5 +16,5 @@ def miles_naar_kilometers(miles):
 kilometers = 1223
 miles = 867
 
-print(kilometers_naar_miles(kilometers))
-print(miles_naar_kilometers(miles))
+print(f"{kilometers} kilometers = {kilometers_naar_miles(kilometers)} miles")
+print(f"{miles} miles = {miles_naar_kilometers(miles)} kilometers")

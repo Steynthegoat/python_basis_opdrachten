@@ -8,3 +8,8 @@
 
 my_list = []
 
+for i in range(1, 6):
+    my_list.append(i*10)
+
+
+print (my_list)   
